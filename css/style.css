@@ -1,4 +1,50 @@
-p{
-	background-color: gray;
+
 	
+
+img{
+	height: 500px;
+	width: 400px;
 }
+p{	
+	background-color: white;
+	padding: 20px;
+	font-size: 20px;
+	border: solid orange;
+}
+h4{
+	border: 3px solid purple;
+	background-color: orange;
+
+}
+.bordure1{
+	height: 900px;
+	background-color: purple;
+	border: solid orange;
+}
+.bordure2{
+	height: 900px;
+	background-color: orange;
+	border: solid purple;
+}
+.navbar{
+	margin-bottom: 20px;
+	border: solid orange;
+	background-color: purple;
+}
+
+.bordure3{
+	height: 900px;
+	background-color: orange;
+	border: solid  purple;
+}
+.bordure4{
+	height: 900px;
+	border: solid orange;
+	background-color:purple;
+}
+
+
+
+
+
+
